@@ -1,0 +1,32 @@
+{
+  "name": "upload-cloud-storage",
+  "version": "1.0.0",
+  "description": "easy to upload your files to cloud storages such as s3, google,..",
+  "main": "dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunguyenebox/upload-cloud-storage.git"
+  },
+  "keywords": [
+    "google",
+    "cloud",
+    "s3",
+    "amazon",
+    "storage",
+    "cloud",
+    "storage",
+    "amazon",
+    "google",
+    "cloud",
+    "storate"
+  ],
+  "author": "hieunguyenebox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunguyenebox/upload-cloud-storage/issues"
+  },
+  "homepage": "https://github.com/hieunguyenebox/upload-cloud-storage#readme"
+}
