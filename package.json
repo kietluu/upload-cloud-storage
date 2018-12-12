@@ -14,11 +14,12 @@
     "babel-preset-env": "^1.6.0",
     "del": "^3.0.0",
     "gulp": "4",
-    "babel-polyfill": "^6.26.0",
     "gulp-babel": "^7.0.0"
   },
   "dependencies": {
-    "nanoid": "^2.0.0"
+    "@google-cloud/storage": "^2.3.1",
+    "mime-types": "^2.1.21",
+    "babel-polyfill": "^6.26.0"
   },
   "repository": {
     "type": "git",
